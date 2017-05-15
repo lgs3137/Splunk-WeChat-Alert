@@ -11,7 +11,7 @@ splunk微信告警脚本
 
 1. 下载  
 ```shell
-git clone https://github.com/XWJR-Ops/Splunk-WeChat-Alert.git
+git clone https://github.com/lgs3137/Splunk-WeChat-Alert.git
 ```
 2. 复制脚本到执行位置  
 ```shell
